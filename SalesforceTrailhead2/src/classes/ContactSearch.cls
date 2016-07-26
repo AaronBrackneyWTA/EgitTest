@@ -1,5 +1,6 @@
 public class ContactSearch {
 //Add comments to test Changes in Org and in GitHub 7/26/2016 12:31pm
+//Comment added in Salesforce 3pm 7/26/2016
     public static List<Contact> searchForContacts(string lName, string zipCode)
         {
             Integer i=0;
